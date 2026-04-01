@@ -6,8 +6,8 @@ const cron = require('node-cron');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
-const BOT_TOKEN = '8';
-const CHAT_ID = '1';
+const BOT_TOKEN = '8556932456:AAHPy_FVSNeoEEgF7A3F1FDefejDyh9G_R8';
+const CHAT_ID = '1171563190';
 
 async function sendTelegramMessage() {
 
